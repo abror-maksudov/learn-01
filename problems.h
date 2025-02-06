@@ -7,5 +7,6 @@
 
 void solve_problems_1();
 void solve_problems_2();
+void solveFeb6();
 
 #endif //PROBLEMS_H

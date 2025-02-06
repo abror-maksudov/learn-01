@@ -129,6 +129,30 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+classwork-Feb-6.o: classwork-Feb-6.cpp.o
+.PHONY : classwork-Feb-6.o
+
+# target to build an object file
+classwork-Feb-6.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-6.cpp.o
+.PHONY : classwork-Feb-6.cpp.o
+
+classwork-Feb-6.i: classwork-Feb-6.cpp.i
+.PHONY : classwork-Feb-6.i
+
+# target to preprocess a source file
+classwork-Feb-6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-6.cpp.i
+.PHONY : classwork-Feb-6.cpp.i
+
+classwork-Feb-6.s: classwork-Feb-6.cpp.s
+.PHONY : classwork-Feb-6.s
+
+# target to generate assembly for a file
+classwork-Feb-6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-6.cpp.s
+.PHONY : classwork-Feb-6.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -186,6 +210,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... classwork-Feb-6.o"
+	@echo "... classwork-Feb-6.i"
+	@echo "... classwork-Feb-6.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

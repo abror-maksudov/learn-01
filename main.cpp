@@ -6,6 +6,7 @@ int main() {
     std::cout << "START EXECUTION\n\n";
 
     // solve_problems_1();
-    solve_problems_2();
+    // solve_problems_2();
+    solveFeb6();
     return 0;
 };
