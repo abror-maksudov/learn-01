@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/a.maksudov/Dev/learn-01/classwork-Feb-13.cpp" "CMakeFiles/untitled.dir/classwork-Feb-13.cpp.o" "gcc" "CMakeFiles/untitled.dir/classwork-Feb-13.cpp.o.d"
+  "/Users/a.maksudov/Dev/learn-01/classwork-Feb-20.cpp" "CMakeFiles/untitled.dir/classwork-Feb-20.cpp.o" "gcc" "CMakeFiles/untitled.dir/classwork-Feb-20.cpp.o.d"
   "/Users/a.maksudov/Dev/learn-01/classwork-Feb-6.cpp" "CMakeFiles/untitled.dir/classwork-Feb-6.cpp.o" "gcc" "CMakeFiles/untitled.dir/classwork-Feb-6.cpp.o.d"
   "/Users/a.maksudov/Dev/learn-01/main.cpp" "CMakeFiles/untitled.dir/main.cpp.o" "gcc" "CMakeFiles/untitled.dir/main.cpp.o.d"
   "/Users/a.maksudov/Dev/learn-01/problems.cpp" "CMakeFiles/untitled.dir/problems.cpp.o" "gcc" "CMakeFiles/untitled.dir/problems.cpp.o.d"

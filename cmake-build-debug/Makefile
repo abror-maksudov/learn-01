@@ -153,6 +153,30 @@ classwork-Feb-13.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-13.cpp.s
 .PHONY : classwork-Feb-13.cpp.s
 
+classwork-Feb-20.o: classwork-Feb-20.cpp.o
+.PHONY : classwork-Feb-20.o
+
+# target to build an object file
+classwork-Feb-20.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-20.cpp.o
+.PHONY : classwork-Feb-20.cpp.o
+
+classwork-Feb-20.i: classwork-Feb-20.cpp.i
+.PHONY : classwork-Feb-20.i
+
+# target to preprocess a source file
+classwork-Feb-20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-20.cpp.i
+.PHONY : classwork-Feb-20.cpp.i
+
+classwork-Feb-20.s: classwork-Feb-20.cpp.s
+.PHONY : classwork-Feb-20.s
+
+# target to generate assembly for a file
+classwork-Feb-20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/classwork-Feb-20.cpp.s
+.PHONY : classwork-Feb-20.cpp.s
+
 classwork-Feb-6.o: classwork-Feb-6.cpp.o
 .PHONY : classwork-Feb-6.o
 
@@ -237,6 +261,9 @@ help:
 	@echo "... classwork-Feb-13.o"
 	@echo "... classwork-Feb-13.i"
 	@echo "... classwork-Feb-13.s"
+	@echo "... classwork-Feb-20.o"
+	@echo "... classwork-Feb-20.i"
+	@echo "... classwork-Feb-20.s"
 	@echo "... classwork-Feb-6.o"
 	@echo "... classwork-Feb-6.i"
 	@echo "... classwork-Feb-6.s"

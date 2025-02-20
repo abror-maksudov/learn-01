@@ -9,5 +9,6 @@ void solve_problems_1();
 void solve_problems_2();
 void solveFeb6();
 void solveFeb13();
+void solveFeb20();
 
 #endif //PROBLEMS_H
