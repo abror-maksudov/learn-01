@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 int solveFeb13() {
     const std::string LINE(40, '=');
