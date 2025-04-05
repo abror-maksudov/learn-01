@@ -8,4 +8,6 @@ add_executable(untitled main.cpp
         problems.h
         classwork-Feb-6.cpp
         classwork-Feb-13.cpp
-        classwork-Mar-20.cpp)
+        classwork-Mar-20.cpp
+        Lab7.cpp
+        Lab9.cpp)

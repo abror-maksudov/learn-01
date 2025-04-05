@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/untitled.dir/Lab7.cpp.o"
+  "CMakeFiles/untitled.dir/Lab7.cpp.o.d"
+  "CMakeFiles/untitled.dir/Lab9.cpp.o"
+  "CMakeFiles/untitled.dir/Lab9.cpp.o.d"
   "CMakeFiles/untitled.dir/classwork-Feb-13.cpp.o"
   "CMakeFiles/untitled.dir/classwork-Feb-13.cpp.o.d"
   "CMakeFiles/untitled.dir/classwork-Feb-6.cpp.o"

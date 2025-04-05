@@ -129,6 +129,54 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+Lab7.o: Lab7.cpp.o
+.PHONY : Lab7.o
+
+# target to build an object file
+Lab7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab7.cpp.o
+.PHONY : Lab7.cpp.o
+
+Lab7.i: Lab7.cpp.i
+.PHONY : Lab7.i
+
+# target to preprocess a source file
+Lab7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab7.cpp.i
+.PHONY : Lab7.cpp.i
+
+Lab7.s: Lab7.cpp.s
+.PHONY : Lab7.s
+
+# target to generate assembly for a file
+Lab7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab7.cpp.s
+.PHONY : Lab7.cpp.s
+
+Lab9.o: Lab9.cpp.o
+.PHONY : Lab9.o
+
+# target to build an object file
+Lab9.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab9.cpp.o
+.PHONY : Lab9.cpp.o
+
+Lab9.i: Lab9.cpp.i
+.PHONY : Lab9.i
+
+# target to preprocess a source file
+Lab9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab9.cpp.i
+.PHONY : Lab9.cpp.i
+
+Lab9.s: Lab9.cpp.s
+.PHONY : Lab9.s
+
+# target to generate assembly for a file
+Lab9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Lab9.cpp.s
+.PHONY : Lab9.cpp.s
+
 classwork-Feb-13.o: classwork-Feb-13.cpp.o
 .PHONY : classwork-Feb-13.o
 
@@ -258,6 +306,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
+	@echo "... Lab7.o"
+	@echo "... Lab7.i"
+	@echo "... Lab7.s"
+	@echo "... Lab9.o"
+	@echo "... Lab9.i"
+	@echo "... Lab9.s"
 	@echo "... classwork-Feb-13.o"
 	@echo "... classwork-Feb-13.i"
 	@echo "... classwork-Feb-13.s"
