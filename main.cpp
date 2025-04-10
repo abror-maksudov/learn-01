@@ -12,6 +12,8 @@ int main() {
     // solveMar20();
     // solveLab7();
     // solveLab9();
-    solveLab11();
+    // solveLab11();
+    // solveLab12();
+    solveLab13();
     return 0;
 };

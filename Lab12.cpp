@@ -10,7 +10,7 @@ void square(int* num) {
     *num = (*num) * (*num);
 }
 
-int solveLab11() {
+int solveLab12() {
     const std::string LINE(40, '=');
     std::cout << LINE + '\n';
 
