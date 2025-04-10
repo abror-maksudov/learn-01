@@ -12,5 +12,6 @@ void solveFeb13();
 void solveMar20();
 void solveLab7();
 void solveLab9();
+void solveLab11();
 
 #endif //PROBLEMS_H
